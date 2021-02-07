@@ -16,15 +16,14 @@ public class MainView extends VerticalLayout {
 	private static final long serialVersionUID = 7160713657316969767L;
 
 	public MainView(@Autowired PersonRepository personRepository) {
-		long anzahl = personRepository.count();
+		long anzahl = 0; // bitte Variable anzahl mit der Anzahl der Dokumente in der Collection person
+							// belegen
 		String titel = "Personen (" + anzahl + ")";
 		add(new Text(titel));
 
 		Button insertButton = new Button(new Icon(VaadinIcon.PLUS));
 		insertButton.addClickListener(event -> {
-			Person person = new Person();
-			person.setName("Christian Trutz");
-			personRepository.insert(person);
+			// hier bitte ihren Quellcode einfügen
 		});
 		add(insertButton);
 
