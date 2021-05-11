@@ -1,25 +1,44 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Visual Studio 2019 Grundkurs
 
-![course-name-alt-text][lil-thumbnail-url] 
+Dies ist das Repository für den Kurs Visual Studio 2019 Grundkurs auf **LinkedIn Learning**. Es handelt sich hierbei um die offizielle deutsche Adaption des englischsprachigen Kurses [Visual Studio Essential Training](https://www.linkedin.com/learning/visual-studio-2019-essential-training/working-with-source-control-in-visual-studio) von Walt Ritscher. Beide Kurse sind bei [LinkedIn Learning](https://linkedin.com/learning) erhältlich.
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Über diesen Kurs
+> _Lernen Sie die Grundlagen von Visual Studio, der integrierten Entwicklungsumgebung (IDE) von Microsoft._
+
+Integrierte Entwicklungsumgebungen (IDE) beschleunigen die Entwicklung von qualitativ hochwertigem Quellcode. Visual Studio, die IDE von Microsoft, bietet Ihnen eine Vielzahl von Werkzeugen zur produktiven Entwicklung, unabhängig von der Programmiersprache, dem Programmierstil oder dem Projekttyp.
+
+Dieser Kurs gibt eine umfangreiche Einführung in Visual Studio. Er versetzt Sie in die Lage, die Visual Studio-Werkzeuge und -Funktionen zu erkunden und Visual Studio gemäß Ihrer Anforderungen zu konfigurieren. André Krämer zeigt Ihnen basierend auf einem Training von Walt Ritscher, wie Sie die Versionsverwaltung mit Git nutzen, den Editor anpassen, effizizienter mit Intellisense und Codesausschnitten arbeiten und die eingebauten Werkzeuge zum Umgestalten (refactoring) oder Debuggen von Quellcode einsetzen.
+
+**Inhalte:**
+*	Visual Studio installieren und konfigurieren
+* Mit Dateien und Projektmappen arbeiten
+* Projekte zu Git hinzufügen
+* Projekte von Git Repositories abrufen
+* Editoreinstellungen konfigurieren
+* Code im Editor schreiben
+* Intellisense nutzen
+* Codeänderungen nachverfolgen
+* Refactoring
+* Code formatieren
+* Referenzen finden
+* Code debuggen
+* Visual Studio Extensions installieren
+
+
+## Zip Dateien
+Alle im Code gezeigten Beispiele sind für Sie als Übungsdateien verfügbar. Die Übungen für die *erste Hälfte* des Kurses können
+von der Kursseite herunter geladen werden. Dazu müssen Sie mit Ihrem LinkedIn Learning Konto angemeldet sein. Die Übungsdateien
+für die zweite Hälfte des Kurses beziehen Sie über dieses Git Repository.
 
 ## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Die Git Branches sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#-Video#`. Der Branch `01-03` beinhaltet zum Beispiel die Übungen für das dritte Video im zweiten Kapitel. Einige Branches haben einen Anfangsstatus (`04-01`) und einen Endstatus (`04-01e`). Der Branch mit dem `e` am Ende beinhaltet in diesem Fall stets den Code der am Ende des Videos zu sehen ist.
+Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die Übungen innerhalb des Trainings genutzt.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Installation
+Um diese Übungsdateien verwenden zu können müssen Sie  [Visual Studio installieren](https://visualstudio.microsoft.com/). Die Beispiele können mit jeder verfügbaren Edition (Community, Professional, Enterprise) bearbeitet werden.
+
+## Über den Autor - Christian Trutz
+Sie finden [weitere Kurse von Christian Trutz](https://www.linkedin.com/learning/instructors/andre-kramer) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/andrekraemer?trk=lil_instructor) und [Twitter](https://twitter.com/codemurai). 
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+![Profilbild André Krämer](https://cdn.lynda.com/authors/2324878_200x200_thumb.jpg)
