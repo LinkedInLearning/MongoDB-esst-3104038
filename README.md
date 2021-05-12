@@ -1,4 +1,4 @@
-# Visual Studio 2019 Grundkurs
+# MongoDB Grundkurs
 
 Dies ist das Repository für den Kurs Visual Studio 2019 Grundkurs auf **LinkedIn Learning**. Es handelt sich hierbei um die offizielle deutsche Adaption des englischsprachigen Kurses [Visual Studio Essential Training](https://www.linkedin.com/learning/visual-studio-2019-essential-training/working-with-source-control-in-visual-studio) von Walt Ritscher. Beide Kurse sind bei [LinkedIn Learning](https://linkedin.com/learning) erhältlich.
 
