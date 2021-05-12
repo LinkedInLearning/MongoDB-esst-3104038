@@ -21,4 +21,4 @@ Um diese Übungsdateien verwenden zu können müssen Sie  [Visual Studio install
 Folgen Sie Christian Trutz auf [LinkedIn](https://www.linkedin.com/in/christiantrutz/) und [Twitter](https://twitter.com/). 
 
 
-![Profilbild André Krämer](https://cdn.lynda.com/authors/2324878_200x200_thumb.jpg)
+
