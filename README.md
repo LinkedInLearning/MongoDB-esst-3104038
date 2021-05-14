@@ -3,9 +3,9 @@
 Dies ist das Repository für den Kurs MongoDB Grundkurs auf **LinkedIn Learning**. 
 
 ## Über diesen Kurs
-> _Lernen Sie die Grundlagen von Visual Studio, der integrierten Entwicklungsumgebung (IDE) von Microsoft._
+> _Lernen Sie die Grundlagen von MongoDB, der dokument-orientierten, NoSQL Datenbank._
 
-Integrierte Entwicklungsumgebungen (IDE) beschleunigen die Entwicklung von qualitativ hochwertigem Quellcode. Visual Studio, die IDE von Microsoft, bietet Ihnen eine Vielzahl von Werkzeugen zur produktiven Entwicklung, unabhängig von der Programmiersprache, dem Programmierstil oder dem Projekttyp.
+Möchten Sie in Ihren Softwareprojekten eine Datenbank einsetzen, die extrem schnell ist und für Entwickler konzipiert wurde? In diesem Kurs lernen Sie die Grundlagen der NoSQL Datenbank **MongoDB**.
 
 Dieser Kurs gibt eine umfangreiche Einführung in Visual Studio. Er versetzt Sie in die Lage, die Visual Studio-Werkzeuge und -Funktionen zu erkunden und Visual Studio gemäß Ihrer Anforderungen zu konfigurieren. André Krämer zeigt Ihnen basierend auf einem Training von Walt Ritscher, wie Sie die Versionsverwaltung mit Git nutzen, den Editor anpassen, effizizienter mit Intellisense und Codesausschnitten arbeiten und die eingebauten Werkzeuge zum Umgestalten (refactoring) oder Debuggen von Quellcode einsetzen.
 
@@ -18,7 +18,7 @@ Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die �
 Um diese Übungsdateien verwenden zu können müssen Sie  [Visual Studio installieren](https://visualstudio.microsoft.com/). Die Beispiele können mit jeder verfügbaren Edition (Community, Professional, Enterprise) bearbeitet werden.
 
 ## Über den Autor - Christian Trutz
-Folgen Sie Christian Trutz auf [LinkedIn](https://www.linkedin.com/in/christiantrutz/) und [Twitter](https://twitter.com/). 
+Folgen Sie Christian Trutz auf [LinkedIn](https://www.linkedin.com/in/christiantrutz/) und [Twitter](https://twitter.com/ChristianTrutz). 
 
 
 
