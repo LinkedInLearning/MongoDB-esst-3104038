@@ -5,6 +5,8 @@ Dies ist das Repository für den Kurs MongoDB Grundkurs auf **LinkedIn Learning*
 ## Über diesen Kurs
 > _Lernen Sie die Grundlagen von MongoDB, der dokument-orientierten NoSQL Datenbank._
 
+![COURSENAME][lil-thumbnail-url] 
+
 In diesem Kurs lernen Sie die grundlegenden Konzepte und die leistungsfähige Abfragesprache der populären NoSQL-Datenbank MongoDB kennen. Im Mittelpunkt stehen dabei die CRUD-Operationen von MongoDB und Sie sehen, wie sie effizient in MongoDB-Collections suchen können. Im Folgenden entsteht Schritt für Schritt eine Spring Boot-Anwendung, in der MongoDB seine Stärken voll ausspielen kann. Anhand von Code-Challenges am Ende jeden Kapitels können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der von Ihrem Trainer Christian Trutz angebotenen Solution vergleichen.
 
 ## Branches
@@ -15,3 +17,5 @@ Um diese Übungsdateien verwenden zu können müssen Sie  [Eclipse installieren]
 
 ## Über den Autor - Christian Trutz
 Folgen Sie Christian Trutz auf [LinkedIn](https://www.linkedin.com/in/christiantrutz/) und [Twitter](https://twitter.com/ChristianTrutz). 
+
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3104038/3104038-1622631010440-16x9.jpg
